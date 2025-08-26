@@ -1,0 +1,16 @@
+..\obj\gy86_iic.o: ..\HARDWARE\IIC2\GY86_IIC.c
+..\obj\gy86_iic.o: ..\HARDWARE\IIC2\GY86_IIC.h
+..\obj\gy86_iic.o: ..\SYSTEM\sys\sys.h
+..\obj\gy86_iic.o: ..\USER\stm32f10x.h
+..\obj\gy86_iic.o: ..\CORE\core_cm3.h
+..\obj\gy86_iic.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\gy86_iic.o: ..\USER\system_stm32f10x.h
+..\obj\gy86_iic.o: ..\USER\stm32f10x_conf.h
+..\obj\gy86_iic.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\gy86_iic.o: ..\USER\stm32f10x.h
+..\obj\gy86_iic.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\gy86_iic.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\gy86_iic.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\gy86_iic.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\gy86_iic.o: ..\SYSTEM\delay\delay.h
+..\obj\gy86_iic.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
